@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8baef9d2-e473-417a-a097-17d34f628cfb": {
+      "ProjectGuid": "8baef9d2-e473-417a-a097-17d34f628cfb",
+      "DisplayName": "Kutuphaneproje",
+      "ColorIndex": 0
+    },
+    "64972d75-fb75-4d2a-9b2e-5bc3c012c4e4": {
+      "ProjectGuid": "64972d75-fb75-4d2a-9b2e-5bc3c012c4e4",
+      "DisplayName": "Kp.orm",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

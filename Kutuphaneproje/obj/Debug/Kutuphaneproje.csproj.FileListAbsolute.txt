@@ -1,0 +1,13 @@
+F:\örnekler\Kutuphaneproje\Kutuphaneproje\bin\Debug\Kutuphaneproje.exe.config
+F:\örnekler\Kutuphaneproje\Kutuphaneproje\bin\Debug\Kutuphaneproje.exe
+F:\örnekler\Kutuphaneproje\Kutuphaneproje\bin\Debug\Kutuphaneproje.pdb
+F:\örnekler\Kutuphaneproje\Kutuphaneproje\obj\Debug\Kutuphaneproje.csproj.AssemblyReference.cache
+F:\örnekler\Kutuphaneproje\Kutuphaneproje\obj\Debug\Kutuphaneproje.Form1.resources
+F:\örnekler\Kutuphaneproje\Kutuphaneproje\obj\Debug\Kutuphaneproje.Kitaplar.resources
+F:\örnekler\Kutuphaneproje\Kutuphaneproje\obj\Debug\Kutuphaneproje.Odunc.resources
+F:\örnekler\Kutuphaneproje\Kutuphaneproje\obj\Debug\Kutuphaneproje.Ogrenciler.resources
+F:\örnekler\Kutuphaneproje\Kutuphaneproje\obj\Debug\Kutuphaneproje.Properties.Resources.resources
+F:\örnekler\Kutuphaneproje\Kutuphaneproje\obj\Debug\Kutuphaneproje.csproj.GenerateResource.cache
+F:\örnekler\Kutuphaneproje\Kutuphaneproje\obj\Debug\Kutuphaneproje.csproj.CoreCompileInputs.cache
+F:\örnekler\Kutuphaneproje\Kutuphaneproje\obj\Debug\Kutuphaneproje.exe
+F:\örnekler\Kutuphaneproje\Kutuphaneproje\obj\Debug\Kutuphaneproje.pdb
